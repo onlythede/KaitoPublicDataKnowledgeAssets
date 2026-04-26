@@ -1072,6 +1072,14 @@
     }
   },
   {
+    "ticker": "KII",
+    "remarks": {
+      "display_ticker": "KII",
+      "fullname": "Kii Chain",
+      "twitter_handle": "KiiChainio"
+    }
+  },
+  {
     "ticker": "ARCARCARC",
     "remarks": {
       "display_ticker": "ARC",
